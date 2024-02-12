@@ -1,0 +1,1406 @@
+Script started on 2024-02-11 23:39:15+01:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="172" LINES="38"]
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ 
+[?2004l[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ 
+[?2004l[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ 
+[?2004l[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ 
+[?2004l[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ 
+[?2004l[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ 
+[?2004l[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ exituit[1Pitsudo systemctl status vpnconnect.service exit[Kuit[1Pit[Kexituit[1Pitsudo systemctl status vpnconnect.service [1Prt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@tus[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Pop[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2@atus[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15Pps -aux | grep openconnect[14PHTTPS_PROXY=[1P_PROXY=S_PROXY=ps -aux | grep openconnectsudo systemctl status vpnconnect.service [2Pop[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2@atus[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Prt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@tus[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kuit[1Pit[K
+[?2004l[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ 
+[?2004l[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ 
+[?2004l[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ 
+[?2004l[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ 
+[?2004l[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ 
+[?2004l[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ 
+[?2004l[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ 
+[?2004l[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ 
+[?2004l[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ clear[C
+[?2004l[H[2J[3J[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [7m./chatgpt.sh chat "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" gpt-3.5-turbo chatgpt-openai-cli-tool[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./chatgpt.sh chat "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" gpt-3.5-turbo chatgpt-openai-cli-tool
+[?2004lusing api token gpt-3.5-turbo, model chatgpt-openai-cli-tool. Storing conversation in 
+[32m[chatgpt-openai-cli-tool][] User:[0m
+> exit
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ ./chatgpt.sh chat "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" gpt-3.5-turbo chatgpt-openai-cli-tool
+[?2004lStart of the conversation using api token gpt-3.5-turbo, model chatgpt-openai-cli-tool. Storing conversation in 
+using api token gpt-3.5-turbo, model chatgpt-openai-cli-tool. Storing conversation in 
+[32m[chatgpt-openai-cli-tool][] User:[0m
+> exit
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ ./chatgpt.sh chat "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" gpt-3.5-turbo chatgpt-openai-cli-tool
+[?2004lStart of the conversation using api token gpt-3.5-turbo, model chatgpt-openai-cli-tool. Storing conversation in 
+using api token gpt-3.5-turbo, model chatgpt-openai-cli-tool. Storing conversation in 
+[32m[chatgpt-openai-cli-tool][] User:[0m
+> exit
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ ./chatgpt.sh chat "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" gpt-3.5-turbo chatgpt-openai-cli-tool[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[?2004lStart of the conversation using api token gpt-3.5-turbo, model chatgpt-openai-cli-tool. Storing conversation in 
+using api token gpt-3.5-turbo, model chatgpt-openai-cli-tool. Storing conversation in 
+[32m[chatgpt-openai-cli-tool][] User:[0m
+> exit
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ ./chatgpt.sh chat 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 gpt-3.5-turbo chatgpt-openai-cli-tool
+[?2004lStart of the conversation using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool
+using api token gpt-3.5-turbo, model chatgpt-openai-cli-tool. Storing conversation in 
+[32m[chatgpt-openai-cli-tool][] User:[0m
+> exit
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ ./chatgpt.sh chat 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 gpt-3.5-turbo chatgpt-openai-cli-tool
+[?2004lStart of the conversation using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool
+using api token ./chatgpt.sh, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> exit^[[D     t
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ clear
+[?2004l[H[2J[3J[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ clear./chatgpt.sh chat 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 gpt-3.5-turbo chatgpt-openai-cli-tool
+[?2004lStart of the conversation using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool
+using api token ./chatgpt.sh, model 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. Storing conversation in gpt-3.5-turbo
+[32m[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][gpt-3.5-turbo] User:[0m
+> exit
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ ./chatgpt.sh chat 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 gpt-3.5-turbo chatgpt-openai-cli-tool
+[?2004lStart of the conversation using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool
+using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> i need an interactive console program written in bash that will have a conversation with chat gpt using the openai API. the console program will perform the following functions:
+list-models : will take the API token as a parameter and will return the available models.
+chat: will take the api-token, model and a conversation file as parameters and will enable the user to have a conversation with the chatgpt model.{ "error": { "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.", "type": "insufficient_quota", "param": null, "code": "insufficient_quota" } }
+jq: error: Could not open file {: No such file or directory
+jq: error: Could not open file "error":: No such file or directory
+jq: error: Could not open file {: No such file or directory
+jq: error: Could not open file "message":: No such file or directory
+jq: error: Could not open file "You: No such file or directory
+jq: error: Could not open file exceeded: No such file or directory
+jq: error: Could not open file your: No such file or directory
+jq: error: Could not open file current: No such file or directory
+jq: error: Could not open file quota,: No such file or directory
+jq: error: Could not open file please: No such file or directory
+jq: error: Could not open file check: No such file or directory
+jq: error: Could not open file your: No such file or directory
+jq: error: Could not open file plan: No such file or directory
+jq: error: Could not open file and: No such file or directory
+jq: error: Could not open file billing: No such file or directory
+jq: error: Could not open file details.: No such file or directory
+jq: error: Could not open file For: No such file or directory
+jq: error: Could not open file more: No such file or directory
+jq: error: Could not open file information: No such file or directory
+jq: error: Could not open file on: No such file or directory
+jq: error: Could not open file this: No such file or directory
+jq: error: Could not open file error,: No such file or directory
+jq: error: Could not open file read: No such file or directory
+jq: error: Could not open file the: No such file or directory
+jq: error: Could not open file docs:: No such file or directory
+jq: error: Could not open file https://platform.openai.com/docs/guides/error-codes/api-errors.",: No such file or directory
+jq: error: Could not open file "type":: No such file or directory
+jq: error: Could not open file "insufficient_quota",: No such file or directory
+jq: error: Could not open file "param":: No such file or directory
+jq: error: Could not open file null,: No such file or directory
+jq: error: Could not open file "code":: No such file or directory
+jq: error: Could not open file "insufficient_quota": No such file or directory
+jq: error: Could not open file }: No such file or directory
+jq: error: Could not open file }: No such file or directory
+[33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m 
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   475  100   475    0     0   1022      0 --:--:-- --:--:-- --:--:--  1023
+Remaining Tokens: {
+  "error": {
+    "message": "You didn't provide an API key. You need to provide your API key in an Authorization header using Bearer auth (i.e. Authorization: Bearer YOUR_KEY), or as the password field (with blank username) if you're accesing the API from your browser and are prompted for a username and password. You can obtain an API key from https://platform.openai.com/account/api-keys.",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": null
+  }
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> { "error": { "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.", "type": "insufficient_quota", "param": null, "code": "insufficient_quota" } }
+jq: error: Could not open file {: No such file or directory
+jq: error: Could not open file "error":: No such file or directory
+jq: error: Could not open file {: No such file or directory
+jq: error: Could not open file "message":: No such file or directory
+jq: error: Could not open file "You: No such file or directory
+jq: error: Could not open file exceeded: No such file or directory
+jq: error: Could not open file your: No such file or directory
+jq: error: Could not open file current: No such file or directory
+jq: error: Could not open file quota,: No such file or directory
+jq: error: Could not open file please: No such file or directory
+jq: error: Could not open file check: No such file or directory
+jq: error: Could not open file your: No such file or directory
+jq: error: Could not open file plan: No such file or directory
+jq: error: Could not open file and: No such file or directory
+jq: error: Could not open file billing: No such file or directory
+jq: error: Could not open file details.: No such file or directory
+jq: error: Could not open file For: No such file or directory
+jq: error: Could not open file more: No such file or directory
+jq: error: Could not open file information: No such file or directory
+jq: error: Could not open file on: No such file or directory
+jq: error: Could not open file this: No such file or directory
+jq: error: Could not open file error,: No such file or directory
+jq: error: Could not open file read: No such file or directory
+jq: error: Could not open file the: No such file or directory
+jq: error: Could not open file docs:: No such file or directory
+jq: error: Could not open file https://platform.openai.com/docs/guides/error-codes/api-errors.",: No such file or directory
+jq: error: Could not open file "type":: No such file or directory
+jq: error: Could not open file "insufficient_quota",: No such file or directory
+jq: error: Could not open file "param":: No such file or directory
+jq: error: Could not open file null,: No such file or directory
+jq: error: Could not open file "code":: No such file or directory
+jq: error: Could not open file "insufficient_quota": No such file or directory
+jq: error: Could not open file }: No such file or directory
+jq: error: Could not open file }: No such file or directory
+[33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m 
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   475  100   475    0     0   1100      0 --:--:-- --:--:-- --:--:--  1102
+Remaining Tokens: {
+  "error": {
+    "message": "You didn't provide an API key. You need to provide your API key in an Authorization header using Bearer auth (i.e. Authorization: Bearer YOUR_KEY), or as the password field (with blank username) if you're accesing the API from your browser and are prompted for a username and password. You can obtain an API key from https://platform.openai.com/account/api-keys.",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": null
+  }
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> exit
+{ "error": { "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.", "type": "insufficient_quota", "param": null, "code": "insufficient_quota" } }
+jq: error: Could not open file {: No such file or directory
+jq: error: Could not open file "error":: No such file or directory
+jq: error: Could not open file {: No such file or directory
+jq: error: Could not open file "message":: No such file or directory
+jq: error: Could not open file "You: No such file or directory
+jq: error: Could not open file exceeded: No such file or directory
+jq: error: Could not open file your: No such file or directory
+jq: error: Could not open file current: No such file or directory
+jq: error: Could not open file quota,: No such file or directory
+jq: error: Could not open file please: No such file or directory
+jq: error: Could not open file check: No such file or directory
+jq: error: Could not open file your: No such file or directory
+jq: error: Could not open file plan: No such file or directory
+jq: error: Could not open file and: No such file or directory
+jq: error: Could not open file billing: No such file or directory
+jq: error: Could not open file details.: No such file or directory
+jq: error: Could not open file For: No such file or directory
+jq: error: Could not open file more: No such file or directory
+jq: error: Could not open file information: No such file or directory
+jq: error: Could not open file on: No such file or directory
+jq: error: Could not open file this: No such file or directory
+jq: error: Could not open file error,: No such file or directory
+jq: error: Could not open file read: No such file or directory
+jq: error: Could not open file the: No such file or directory
+jq: error: Could not open file docs:: No such file or directory
+jq: error: Could not open file https://platform.openai.com/docs/guides/error-codes/api-errors.",: No such file or directory
+jq: error: Could not open file "type":: No such file or directory
+jq: error: Could not open file "insufficient_quota",: No such file or directory
+jq: error: Could not open file "param":: No such file or directory
+jq: error: Could not open file null,: No such file or directory
+jq: error: Could not open file "code":: No such file or directory
+jq: error: Could not open file "insufficient_quota": No such file or directory
+jq: error: Could not open file }: No such file or directory
+jq: error: Could not open file }: No such file or directory
+[33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m 
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   475  100   475    0     0   1808      0 --:--:-- --:--:-- --:--:--  1806
+Remaining Tokens: {
+  "error": {
+    "message": "You didn't provide an API key. You need to provide your API key in an Authorization header using Bearer auth (i.e. Authorization: Bearer YOUR_KEY), or as the password field (with blank username) if you're accesing the API from your browser and are prompted for a username and password. You can obtain an API key from https://platform.openai.com/account/api-keys.",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": null
+  }
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> exit^[[H    
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ ./chatgpt.sh chat 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 gpt-3.5-turbo chatgpt-openai-cli-tool
+[?2004lStart of the conversation using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool
+using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> hello
+{ "error": { "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.", "type": "insufficient_quota", "param": null, "code": "insufficient_quota" } }
+jq: error: Could not open file {: No such file or directory
+jq: error: Could not open file "error":: No such file or directory
+jq: error: Could not open file {: No such file or directory
+jq: error: Could not open file "message":: No such file or directory
+jq: error: Could not open file "You: No such file or directory
+jq: error: Could not open file exceeded: No such file or directory
+jq: error: Could not open file your: No such file or directory
+jq: error: Could not open file current: No such file or directory
+jq: error: Could not open file quota,: No such file or directory
+jq: error: Could not open file please: No such file or directory
+jq: error: Could not open file check: No such file or directory
+jq: error: Could not open file your: No such file or directory
+jq: error: Could not open file plan: No such file or directory
+jq: error: Could not open file and: No such file or directory
+jq: error: Could not open file billing: No such file or directory
+jq: error: Could not open file details.: No such file or directory
+jq: error: Could not open file For: No such file or directory
+jq: error: Could not open file more: No such file or directory
+jq: error: Could not open file information: No such file or directory
+jq: error: Could not open file on: No such file or directory
+jq: error: Could not open file this: No such file or directory
+jq: error: Could not open file error,: No such file or directory
+jq: error: Could not open file read: No such file or directory
+jq: error: Could not open file the: No such file or directory
+jq: error: Could not open file docs:: No such file or directory
+jq: error: Could not open file https://platform.openai.com/docs/guides/error-codes/api-errors.",: No such file or directory
+jq: error: Could not open file "type":: No such file or directory
+jq: error: Could not open file "insufficient_quota",: No such file or directory
+jq: error: Could not open file "param":: No such file or directory
+jq: error: Could not open file null,: No such file or directory
+jq: error: Could not open file "code":: No such file or directory
+jq: error: Could not open file "insufficient_quota": No such file or directory
+jq: error: Could not open file }: No such file or directory
+jq: error: Could not open file }: No such file or directory
+[33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m 
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   475  100   475    0     0   1707      0 --:--:-- --:--:-- --:--:--  1708
+Remaining Tokens: {
+  "error": {
+    "message": "You didn't provide an API key. You need to provide your API key in an Authorization header using Bearer auth (i.e. Authorization: Bearer YOUR_KEY), or as the password field (with blank username) if you're accesing the API from your browser and are prompted for a username and password. You can obtain an API key from https://platform.openai.com/account/api-keys.",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": null
+  }
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> a exit
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ 
+[?2004l[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ ./chatgpt.sh chat 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 gpt-3.5-turbo chatgpt-openai-cli-tool
+[?2004lStart of the conversation using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool
+using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> hello
+jq: error (at <stdin>:8): Cannot iterate over null (null)
+[33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m 
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   475  100   475    0     0   1936      0 --:--:-- --:--:-- --:--:--  1938
+Remaining Tokens: {
+  "error": {
+    "message": "You didn't provide an API key. You need to provide your API key in an Authorization header using Bearer auth (i.e. Authorization: Bearer YOUR_KEY), or as the password field (with blank username) if you're accesing the API from your browser and are prompted for a username and password. You can obtain an API key from https://platform.openai.com/account/api-keys.",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": null
+  }
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> exit
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ ./chatgpt.sh chat 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 gpt-3.5-turbo chatgpt-openai-cli-tool
+[?2004lStart of the conversation using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool
+using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> hello
+jq: error (at <stdin>:8): Cannot iterate over null (null)
+[33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m 
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   475  100   475    0     0   2015      0 --:--:-- --:--:-- --:--:--  2021
+Remaining Tokens: {
+  "error": {
+    "message": "You didn't provide an API key. You need to provide your API key in an Authorization header using Bearer auth (i.e. Authorization: Bearer YOUR_KEY), or as the password field (with blank username) if you're accesing the API from your browser and are prompted for a username and password. You can obtain an API key from https://platform.openai.com/account/api-keys.",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": null
+  }
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> exit
+Invalid command. Available commands: list-models, chat
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ ./chatgpt.sh chat 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 gpt-3.5-turbo chatgpt-openai-cli-tool
+[?2004l\e[32mStart of the conversation using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool\e[0m
+\e[32musing api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool\e[0m
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> hello
+jq: error (at <stdin>:8): Cannot iterate over null (null)
+[33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m 
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   475  100   475    0     0   1789      0 --:--:-- --:--:-- --:--:--  1785
+Remaining Tokens: {
+  "error": {
+    "message": "You didn't provide an API key. You need to provide your API key in an Authorization header using Bearer auth (i.e. Authorization: Bearer YOUR_KEY), or as the password field (with blank username) if you're accesing the API from your browser and are prompted for a username and password. You can obtain an API key from https://platform.openai.com/account/api-keys.",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": null
+  }
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> exit
+./chatgpt.sh: line 73: ipt: command not found
+\e[32mStart of the conversation using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool\e[0m
+\e[32musing api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool\e[0m
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> exit
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ ./chatgpt.sh chat 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 gpt-3.5-turbo chatgpt-openai-cli-tool
+[?2004l[31mStart of the conversation using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[31musing api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> hello
+jq: error (at <stdin>:8): Cannot iterate over null (null)
+[33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m 
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   475  100   475    0     0   1744      0 --:--:-- --:--:-- --:--:--  1746
+Remaining Tokens: {
+  "error": {
+    "message": "You didn't provide an API key. You need to provide your API key in an Authorization header using Bearer auth (i.e. Authorization: Bearer YOUR_KEY), or as the password field (with blank username) if you're accesing the API from your browser and are prompted for a username and password. You can obtain an API key from https://platform.openai.com/account/api-keys.",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": null
+  }
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> exit
+./chatgpt.sh: line 73: to: command not found
+[31mStart of the conversation using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[31musing api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> exit
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ ./chatgpt.sh chat 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 gpt-3.5-turbo chatgpt-openai-cli-tool
+[?2004l[31mStart of the conversation using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[31musing api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> hello
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   445  100   337  100   108   1322    423 --:--:-- --:--:-- --:--:--  1751
+[33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m 
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   143  100   143    0     0    529      0 --:--:-- --:--:-- --:--:--   529
+Remaining Tokens: {
+  "error": {
+    "message": "Missing query parameter 'date'",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": null
+  }
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> ^[[A    exit
+./chatgpt.sh: line 74: ain: command not found
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ ./chatgpt.sh chat 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 gpt-3.5-turbo chatgpt-openai-cli-tool
+[?2004l[31mStart of the conversation using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[31musing api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> hello
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   445  100   337  100   108   1259    403 --:--:-- --:--:-- --:--:--  1666
+[33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m 
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   167  100   167    0     0    408      0 --:--:-- --:--:-- --:--:--   409
+Remaining Tokens: {
+  "object": "list",
+  "data": [],
+  "ft_data": [],
+  "dalle_api_data": [],
+  "whisper_api_data": [],
+  "tts_api_data": [],
+  "assistant_code_interpreter_data": []
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> exit
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ ./chatgpt.sh chat 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 gpt-3.5-turbo chatgpt-openai-cli-tool
+[?2004l[31mStart of the conversation using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[31musing api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> hello
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   445  100   337  100   108   1354    434 --:--:-- --:--:-- --:--:--  1794
+[33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m {
+    "error": {
+        "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+        "type": "insufficient_quota",
+        "param": null,
+        "code": "insufficient_quota"
+    }
+}
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   167  100   167    0     0    434      0 --:--:-- --:--:-- --:--:--   434
+Remaining Tokens: {
+  "object": "list",
+  "data": [],
+  "ft_data": [],
+  "dalle_api_data": [],
+  "whisper_api_data": [],
+  "tts_api_data": [],
+  "assistant_code_interpreter_data": []
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> i have enough tokens/credit but the api is respinde ing that i exceeded the quop ta.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   520  100   337  100   183   1073    582 --:--:-- --:--:-- --:--:--  1656
+[33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m {
+    "error": {
+        "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+        "type": "insufficient_quota",
+        "param": null,
+        "code": "insufficient_quota"
+    }
+}
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   167  100   167    0     0    410      0 --:--:-- --:--:-- --:--:--   410
+Remaining Tokens: {
+  "object": "list",
+  "data": [],
+  "ft_data": [],
+  "dalle_api_data": [],
+  "whisper_api_data": [],
+  "tts_api_data": [],
+  "assistant_code_interpreter_data": []
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> exit
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ ./chatgpt.sh chat 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 gpt-3.5-turbo chatgpt-openai-cli-tool[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[51@[7msk-g1LrFWdgl2Iwk1okDFR2T3BlbkFJInyPFFDdmGMtEFCSYiJM[27m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[C
+[?2004l[31mStart of the conversation using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[31musing api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> hello
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   445  100   337  100   108    989    316 --:--:-- --:--:-- --:--:--  1308
+[33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m {
+    "error": {
+        "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+        "type": "insufficient_quota",
+        "param": null,
+        "code": "insufficient_quota"
+    }
+}
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   167  100   167    0     0    421      0 --:--:-- --:--:-- --:--:--   421
+Remaining Tokens: {
+  "object": "list",
+  "data": [],
+  "ft_data": [],
+  "dalle_api_data": [],
+  "whisper_api_data": [],
+  "tts_api_data": [],
+  "assistant_code_interpreter_data": []
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> exit
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ ./chatgpt.sh chat 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 gpt-3.5-turbo chatgpt-openai-cli-tool
+[?2004l[31mStart of the conversation using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[31musing api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> hello
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0100   445  100   337  100   108     36     11  0:00:09  0:00:09 --:--:--   109
+[33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m {
+    "error": {
+        "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+        "type": "insufficient_quota",
+        "param": null,
+        "code": "insufficient_quota"
+    }
+}
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   167  100   167    0     0    408      0 --:--:-- --:--:-- --:--:--   409
+Remaining Tokens: {
+  "object": "list",
+  "data": [],
+  "ft_data": [],
+  "dalle_api_data": [],
+  "whisper_api_data": [],
+  "tts_api_data": [],
+  "assistant_code_interpreter_data": []
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> exit
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ ./chatgpt.sh chat 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 gpt-3.5-turbo chatgpt-openai-cli-tool
+[?2004l[31mStart of the conversation using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[31musing api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> it cant be that i exceeded my quota
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   475  100   337  100   138   1197    490 --:--:-- --:--:-- --:--:--  1690
+[33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m {
+    "error": {
+        "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+        "type": "insufficient_quota",
+        "param": null,
+        "code": "insufficient_quota"
+    }
+}
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   167  100   167    0     0    417      0 --:--:-- --:--:-- --:--:--   417
+Remaining Tokens: {
+  "object": "list",
+  "data": [],
+  "ft_data": [],
+  "dalle_api_data": [],
+  "whisper_api_data": [],
+  "tts_api_data": [],
+  "assistant_code_interpreter_data": []
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> exit
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ ./chatgpt.sh chat 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 gpt-3.5-turbo chatgpt-openai-cli-tool
+[?2004l[31mStart of the conversation using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[31musing api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> hello
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   445  100   337  100   108   1415    453 --:--:-- --:--:-- --:--:--  1869
+[33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m {
+    "error": {
+        "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+        "type": "insufficient_quota",
+        "param": null,
+        "code": "insufficient_quota"
+    }
+}
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   167  100   167    0     0    453      0 --:--:-- --:--:-- --:--:--   452
+Remaining Tokens: {
+  "object": "list",
+  "data": [],
+  "ft_data": [],
+  "dalle_api_data": [],
+  "whisper_api_data": [],
+  "tts_api_data": [],
+  "assistant_code_interpreter_data": []
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> exit
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [7mcurl -X GET \[27m
+[7m     -H "Authorization: Bearer YOUR_API_KEY" \[27m
+[7m     https://api.openai.com/v1/organizations[27m[A[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ curl -X GET \
+     -H "Authorization: Bearer YOUR_API_KEY" \
+     https://api.openai.com/v1/organizations[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@$[51@[7msk-g1LrFWdgl2Iwk1okDFR2T3BlbkFJInyPFFDdmGMtEFCSYiJM[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csk-g1LrFWdgl2Iwk1okDFR2T3BlbkFJInyPFFDdmGMtEFCSYiJM[1P
+
+[?2004l{
+  "object": "list",
+  "data": [
+    {
+      "object": "organization",
+      "id": "org-IjosSkPSDtQ4BcwRFBR0cdUb",
+      "created": 1673750736,
+      "title": "to-delete",
+      "name": "personal-7852",
+      "description": null,
+      "personal": false,
+      "settings": {
+        "threads_ui_visibility": "ANY_ROLE",
+        "usage_dashboard_visibility": "ANY_ROLE"
+      },
+      "is_default": true,
+      "role": "owner"
+    },
+    {
+      "object": "organization",
+      "id": "org-FsoycnugomBaekWQ1fctGtn4",
+      "created": 1698999702,
+      "title": "Personal",
+      "name": "user-9inpv3ljgdf2aobmmalyonem",
+      "description": "Personal org for alferaru.ioan@gmail.com",
+      "personal": true,
+      "settings": {
+        "threads_ui_visibility": "OWNERS",
+        "usage_dashboard_visibility": "OWNERS"
+      },
+      "is_default": false,
+      "role": "owner"
+    }
+  ]
+}
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ curl -X GET      -H "Authorization: Bearer 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"      https://api.openai.com/v1/organizations[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mhttps://api.openai.com/v1/organ[27m[7mi[27m[7mzations/[27m[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://api.openai.com/v1/organizations/[7morg-IjosSkPSDtQ4BcwRFBR0cdUb[27m[C[C[C[C[C[C[C[C[Corg-IjosSkPSDtQ4BcwRFBR0cdUb
+[?2004l{
+  "object": "organization",
+  "id": "org-IjosSkPSDtQ4BcwRFBR0cdUb",
+  "created": 1673750736,
+  "title": "to-delete",
+  "name": "personal-7852",
+  "description": null,
+  "personal": false,
+  "settings": {
+    "threads_ui_visibility": "ANY_ROLE",
+    "usage_dashboard_visibility": "ANY_ROLE"
+  },
+  "is_default": true,
+  "role": "owner"
+}
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ curl -X GET      -H "Authorization: Bearer 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" https://api.openai.com/v1/organizations/org-IjosSkPSDtQ4BcwRFBR0cdUb[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C     https://api.openai.com/v1/o[24Prganizations
+[?2004l{
+  "object": "list",
+  "data": [
+    {
+      "object": "organization",
+      "id": "org-IjosSkPSDtQ4BcwRFBR0cdUb",
+      "created": 1673750736,
+      "title": "to-delete",
+      "name": "personal-7852",
+      "description": null,
+      "personal": false,
+      "settings": {
+        "threads_ui_visibility": "ANY_ROLE",
+        "usage_dashboard_visibility": "ANY_ROLE"
+      },
+      "is_default": true,
+      "role": "owner"
+    },
+    {
+      "object": "organization",
+      "id": "org-FsoycnugomBaekWQ1fctGtn4",
+      "created": 1698999702,
+      "title": "Personal",
+      "name": "user-9inpv3ljgdf2aobmmalyonem",
+      "description": "Personal org for alferaru.ioan@gmail.com",
+      "personal": true,
+      "settings": {
+        "threads_ui_visibility": "OWNERS",
+        "usage_dashboard_visibility": "OWNERS"
+      },
+      "is_default": false,
+      "role": "owner"
+    }
+  ]
+}
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ curl -X GET      -H "Authorization: Bearer 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"      https://api.openai.com/v1/organizations[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://api.openai.com/v1/organizations/org-IjosSkPSDtQ4BcwRFBR0cdUb
+[?2004l{
+  "object": "organization",
+  "id": "org-IjosSkPSDtQ4BcwRFBR0cdUb",
+  "created": 1673750736,
+  "title": "to-delete",
+  "name": "personal-7852",
+  "description": null,
+  "personal": false,
+  "settings": {
+    "threads_ui_visibility": "ANY_ROLE",
+    "usage_dashboard_visibility": "ANY_ROLE"
+  },
+  "is_default": true,
+  "role": "owner"
+}
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ curl -X GET      -H "Authorization: Bearer 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" https://api.openai.com/v1/organizations/org-IjosSkPSDtQ4BcwRFBR0cdUb[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C      -H "Authorization: Bearer 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" https://api.openai.com/v1/organiz[1Pations/org-IjosSkPSDtQ4BcwRFBR0cdUb[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [C[C[C[C[C[C[C[C[C[C      -H "Authorization: Bearer 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" https://api.openai.com/v1/organiza[1Ptions/org-IjosSkPSDtQ4BcwRFBR0cdUb[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [C[C[C[C[C[C[C[C[C      -H "Authorization: Bearer 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" https://api.openai.com/v1/organizat[1Pions/org-IjosSkPSDtQ4BcwRFBR0cdUb[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [C[C[C[C[C[C[C[CD      -H "Authorization: Bearer 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" https://api.openai.com/v1/organizations/org-IjosSkPSDtQ4BcwRFBR0cdUb[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [C[C[C[C[C[C[C[C[CE      -H "Authorization: Bearer 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" https://api.openai.com/v1/organizations/org-IjosSkPSDtQ4BcwRFBR0cdUb[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [C[C[C[C[C[C[C[C[C[CL      -H "Authorization: Bearer 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" https://api.openai.com/v1/organizations/org-IjosSkPSDtQ4BcwRFBR0cdUb[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [C[C[C[C[C[C[C[C[C[C[CE      -H "Authorization: Bearer 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" https://api.openai.com/v1/organizations/org-IjosSkPSDtQ4BcwRFBR0cdUb[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [C[C[C[C[C[C[C[C[C[C[C[CT      -H "Authorization: Bearer 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" https://api.openai.com/v1/organizations/org-IjosSkPSDtQ4BcwRFBR0cdUb[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[CE      -H "Authorization: Bearer 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" https://api.openai.com/v1/organizations/org-IjosSkPSDtQ4BcwRFBR0cdUb[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-H "Authorization: Bearer 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" https://api.openai.com/v1/orga[1Pnizations/org-IjosSkPSDtQ4BcwRFBR0cdUb[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-H "Authorization: Bearer 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" https://api.openai.com/v1/organ[1Pizations/org-IjosSkPSDtQ4BcwRFBR0cdUb[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-H "Authorization: Bearer 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" https://api.openai.com/v1/organi[1Pzations/org-IjosSkPSDtQ4BcwRFBR0cdUb[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-H "Authorization: Bearer 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" https://api.openai.com/v1/organiz[1Pations/org-IjosSkPSDtQ4BcwRFBR0cdUb[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-H "Authorization: Bearer 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" https://api.openai.com/v1/organiza[1Ptions/org-IjosSkPSDtQ4BcwRFBR0cdUb[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004l{
+  "error": {
+    "message": "Not allowed to DELETE on /v1/organizations/org-IjosSkPSDtQ4BcwRFBR0cdUb. (HINT: Perhaps you meant to use a different HTTP method?)",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": null
+  }
+}
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ curl -X DELETE -H "Authorization: Bearer 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" https://api.openai.com/v1/organizations/org-IjosSkPSDtQ4BcwRFBR0cdUb[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [C[C[C[C[C[C[C[CGET      -H "Authorization: Bearer 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" https://api.openai.com/v1/organizations/org-IjosSkPSDtQ4BcwRFBR0cdUb[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C     https://api.openai.com/v1/o[24Prganizations[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://api.openai.com/v1/organizations/org-IjosSkPSDtQ4BcwRFBR0cdUb[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C     https://api.openai.com/v1/o[24Prganizations[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [20P./chatgpt.sh chat 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 gpt-3.5-turbo chatgpt-openai-cli-tool
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[31mStart of the conversation using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[31musing api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> hello
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   335  100   227  100   108    495    235 --:--:-- --:--:-- --:--:--   731
+[33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m {
+  "error": {
+    "message": "This is a chat model and not supported in the v1/completions endpoint. Did you mean to use v1/chat/completions?",
+    "type": "invalid_request_error",
+    "param": "model",
+    "code": null
+  }
+}
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   167  100   167    0     0    463      0 --:--:-- --:--:-- --:--:--   463
+Remaining Tokens: {
+  "object": "list",
+  "data": [],
+  "ft_data": [],
+  "dalle_api_data": [],
+  "whisper_api_data": [],
+  "tts_api_data": [],
+  "assistant_code_interpreter_data": []
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> exit
+./chatgpt.sh: line 75: n: command not found
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ ./chatgpt.sh chat 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 gpt-3.5-turbo chatgpt-openai-cli-tool[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccurl -X DELETE -H "Authorization: Bearer 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" https://api.openai.com/v1/organizations/org-IjosSkPSDtQ4BcwRFBR0cdUb[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [20P./chatgpt.sh chat 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 gpt-3.5-turbo chatgpt-openai-cli-tool
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[31mStart of the conversation using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[31musing api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> hello
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   302  100   194  100   108    458    255 --:--:-- --:--:-- --:--:--   715
+[33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m {
+    "error": {
+        "message": "Invalid URL (POST /v1/engines/gpt-3.5-turbo/chat/completions)",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": null
+    }
+}
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   167  100   167    0     0    409      0 --:--:-- --:--:-- --:--:--   409
+Remaining Tokens: {
+  "object": "list",
+  "data": [],
+  "ft_data": [],
+  "dalle_api_data": [],
+  "whisper_api_data": [],
+  "tts_api_data": [],
+  "assistant_code_interpreter_data": []
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> exit
+./chatgpt.sh: line 75: ts: command not found
+[31mStart of the conversation using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[31musing api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> exit
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ ./chatgpt.sh chat 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 gpt-3.5-turbo chatgpt-openai-cli-tool[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccurl -X DELETE -H "Authorization: Bearer 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" https://api.openai.com/v1/organizations/org-IjosSkPSDtQ4BcwRFBR0cdUb[A]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ [20P./chatgpt.sh chat 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 gpt-3.5-turbo chatgpt-openai-cli-tool
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[31mStart of the conversation using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[31musing api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> hello
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   304  100   146  100   158    300    324 --:--:-- --:--:-- --:--:--   625
+[33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m {
+  "error": {
+    "message": "'messages' is a required property",
+    "type": "invalid_request_error",
+    "param": null,
+    "code": null
+  }
+}
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   167  100   167    0     0    420      0 --:--:-- --:--:-- --:--:--   420
+Remaining Tokens: {
+  "object": "list",
+  "data": [],
+  "ft_data": [],
+  "dalle_api_data": [],
+  "whisper_api_data": [],
+  "tts_api_data": [],
+  "assistant_code_interpreter_data": []
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> exit
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ ./chatgpt.sh chat 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 gpt-3.5-turbo chatgpt-openai-cli-tool
+[?2004l[31mStart of the conversation using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[31musing api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> hello
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   559  100   482  100    77    433     69  0:00:01  0:00:01 --:--:--   503100   559  100   482  100    77    433     69  0:00:01  0:00:01 --:--:--   503
+[33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m {
+  "id": "chatcmpl-8rE1ZoRa9cZHgRDKcjzMuCDYbZAU2",
+  "object": "chat.completion",
+  "created": 1707695985,
+  "model": "gpt-3.5-turbo-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Hello! How can I assist you today?"
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 8,
+    "completion_tokens": 9,
+    "total_tokens": 17
+  },
+  "system_fingerprint": null
+}
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   167  100   167    0     0    464      0 --:--:-- --:--:-- --:--:--   465
+Remaining Tokens: {
+  "object": "list",
+  "data": [],
+  "ft_data": [],
+  "dalle_api_data": [],
+  "whisper_api_data": [],
+  "tts_api_data": [],
+  "assistant_code_interpreter_data": []
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> exit
+./chatgpt.sh: line 74: arguments: command not found
+[31mStart of the conversation using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[31musing api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> exit
+[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ clear
+[?2004l[H[2J[3J[?2004h]0;devlin@lw232455511: ~/Development/openai-cli[01;32mdevlin@lw232455511[00m:[01;34m~/Development/openai-cli[00m$ clear./chatgpt.sh chat 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 gpt-3.5-turbo chatgpt-openai-cli-tool
+[?2004l[31mStart of the conversation using api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[31musing api token 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, model gpt-3.5-turbo. Storing conversation in chatgpt-openai-cli-tool[0m
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> I need a Program written in c that will perform the following functions: list all models from chatgpt, ^[[1;5D^[[1;5D                start a conversation with chat  gpt, the conversation will be stores d in a separa        conversation file and will be outputed to the console as              stdout as well.   , the program works in the linux terminal. the api token and org will be give                     , organisation and conversation filename will be given as named parameters to the program invocation. The conversation file    will have the memory of everything that the user asked in the current conversation  , this memory wil be used to   with every new question.  in the conversation
+.
+
+[33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m Here's an example program written in C that uses the OpenAI API to achieve the desired functions:
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <curl/curl.h>
+
+#define MAX_INPUT_LENGTH 256
+#define MAX_RESPONSE_LENGTH 4096
+
+typedef struct {
+    char* data;
+    size_t size;
+} MemoryStruct;
+
+static size_t WriteMemoryCallback(void* contents, size_t size, size_t nmemb, void* userp)
+{
+    size_t real_size = size * nmemb;
+    MemoryStruct* mem = (MemoryStruct*)userp;
+
+    mem->data = realloc(mem->data, mem->size + real_size + 1);
+    if (mem->data == NULL)
+    {
+        printf("Failed to allocate memory!
+");
+        return 0;
+    }
+
+    memcpy(&(mem->data[mem->size]), contents, real_size);
+    mem->size += real_size;
+    mem->data[mem->size] = ' ';
+
+    return real_size;
+}
+
+void listModels(const char* apiToken)
+{
+    CURL* curl = curl_easy_init();
+    if (curl)
+    {
+        MemoryStruct response;
+        response.data = malloc(1);  // Will be grown as needed
+        response.size = 0;
+
+        curl_easy_setopt(curl, CURLOPT_URL, "https://api.openai.com/v1/engines/davinci/models");
+        curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, WriteMemoryCallback);
+        curl_easy_setopt(curl, CURLOPT_WRITEDATA, (void*)&response);
+
+        struct curl_slist* headers = NULL;
+        headers = curl_slist_append(headers, "Content-Type: application/json");
+        headers = curl_slist_append(headers, (const char*)apiToken);
+        curl_easy_setopt(curl, CURLOPT_HTTPHEADER, headers);
+
+        CURLcode res = curl_easy_perform(curl);
+        if (res != CURLE_OK)
+        {
+            printf("curl_easy_perform() failed: %s
+", curl_easy_strerror(res));
+        }
+        else
+        {
+            printf("%s
+", response.data);
+        }
+
+        curl_easy_cleanup(curl);
+        curl_slist_free_all(headers);
+        free(response.data);
+    }
+    else
+    {
+        printf("Failed to initialize CURL!
+");
+    }
+}
+
+void startConversation(const char* apiToken, const char* organization, const char* conversationFile)
+{
+    FILE* file = fopen(conversationFile, "wb");
+    if (file == NULL)
+    {
+        printf("Failed to open conversation file!
+");
+        return;
+    }
+
+    CURL* curl = curl_easy_init();
+    if (curl)
+    {
+        MemoryStruct response;
+        response.data = malloc(1);  // Will be grown as needed
+        response.size = 0;
+
+        curl_easy_setopt(curl, CURLOPT_URL, "https://api.openai.com/v1/engines/davinci/completions");
+        curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, WriteMemoryCallback);
+        curl_easy_setopt(curl, CURLOPT_WRITEDATA, (void*)&response);
+
+        struct curl_slist* headers = NULL;
+        headers = curl_slist_append(headers, "Content-Type: application/json");
+        headers = curl_slist_append(headers, (const char*)apiToken);
+        curl_easy_setopt(curl, CURLOPT_HTTPHEADER, headers);
+
+        char input[MAX_INPUT_LENGTH];
+        while (1)
+        {
+            printf("User: ");
+            if (fgets(input, sizeof(input), stdin) == NULL)
+            {
+                printf("Failed to read user input!
+");
+                break;
+            }
+
+            // Trim trailing newline character
+            size_t len = strlen(input);
+            if (len > 0 && input[len - 1] == '
+')
+            {
+                input[len - 1] = ' ';
+            }
+
+            if (strcmp(input, "quit") == 0)
+            {
+                break;
+            }
+
+            char postData[MAX_RESPONSE_LENGTH];
+            snprintf(postData, sizeof(postData), "{\"documents\": [\"%s\"], \"organization\": \"%s\"}", input, organization);
+
+            curl_easy_setopt(curl, CURLOPT_POSTFIELDS, postData);
+            CURLcode res = curl_easy_perform(curl);
+            if (res != CURLE_OK)
+            {
+                printf("curl_easy_perform() failed: %s
+", curl_easy_strerror(res));
+                break;
+            }
+
+            fwrite(input, sizeof(char), strlen(input), file);
+            fwrite("
+", sizeof(char), 1, file);
+            fwrite(response.data, sizeof(char), response.size, file);
+            fwrite("
+", sizeof(char), 1, file);
+
+            printf("ChatGPT: %.*s
+", (int)response.size, response.data);
+        }
+
+        curl_easy_cleanup(curl);
+        curl_slist_free_all(headers);
+        free(response.data);
+    }
+    else
+    {
+        printf("Failed to initialize CURL!
+");
+    }
+
+    fclose(file);
+}
+
+int main(int argc, char* argv[])
+{
+    if (argc != 4)
+    {
+        printf("Usage: %s <API_TOKEN> <ORGANIZATION> <CONVERSATION_FILE>
+", argv[0]);
+        return 1;
+    }
+
+    const char* apiToken = argv[1];
+    const char* organization = argv[2];
+    const char* conversationFile = argv[3];
+
+    listModels(apiToken);
+    startConversation(apiToken, organization, conversationFile);
+
+    return 0;
+}
+```
+
+To compile and run the program, you need to have the libcurl library installed. Use the following command:
+
+```
+gcc program.c -o program -lcurl
+```
+
+Then run the program with the appropriate parameters:
+
+```
+./program <API_TOKEN> <ORGANIZATION> <CONVERSATION_FILE>
+```
+
+Replace `<API_TOKEN>`, `<ORGANIZATION>`, and `<CONVERSATION_FILE>` with the desired values. The program will list all models from ChatGPT, start a conversation, store it in the specified conversation file, and output the responses to stdout as well. The program terminates when the user enters "quit" as the input.
+Remaining Tokens: {
+  "object": "list",
+  "data": [],
+  "ft_data": [],
+  "dalle_api_data": [],
+  "whisper_api_data": [],
+  "tts_api_data": [],
+  "assistant_code_interpreter_data": []
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> [33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m I'm sorry, but I cannot provide an answer without a question. Please provide a specific question or topic for me to assist with.
+Remaining Tokens: {
+  "object": "list",
+  "data": [],
+  "ft_data": [],
+  "dalle_api_data": [],
+  "whisper_api_data": [],
+  "tts_api_data": [],
+  "assistant_code_interpreter_data": []
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> [33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m Yes, humans can live without money. There are a number of alternative lifestyles and communities where people choose to live without money or with minimal money. Some examples include:
+
+1. Freegans: Freegans rely on dumpster-diving and other methods to obtain food and other goods for free. They try to minimize their participation in the monetary economy and live off discarded items.
+
+2. Communal living: Some communities practice communal living, where individuals share resources and live collectively. They often pool their money together to cover expenses such as housing, food, and utilities.
+
+3. Homesteading: Homesteaders live a self-sufficient lifestyle by growing their own food, raising livestock, generating their own energy, and relying as little as possible on outside sources. This way, they reduce their dependence on money.
+
+4. Voluntary simplicity: Some individuals choose to adopt a minimalist lifestyle, reducing their consumption and material possessions. By living with less, they are able to reduce their reliance on money.
+
+5. Barter and exchange: In some communities, people engage in bartering and exchange where goods and services are traded directly without the need for money. This allows individuals to meet their needs without relying on currency.
+
+It's important to note that while living without money is possible, it can be challenging due to the way our society is structured. Money is deeply intertwined with many aspects of modern life, such as housing, education, and healthcare. However, for those who are committed to alternative lifestyles, living without money is a viable option.
+Remaining Tokens: {
+  "object": "list",
+  "data": [],
+  "ft_data": [],
+  "dalle_api_data": [],
+  "whisper_api_data": [],
+  "tts_api_data": [],
+  "assistant_code_interpreter_data": []
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> add another function that will take the api token and return a list of available organisations with their respective ids
+[33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m Here's an example of a function that takes an API token and returns a list of available organizations with their respective IDs using the requests library in Python:
+
+```python
+import requests
+
+def get_organizations(api_token):
+    url = 'https://api.example.com/organizations'
+    headers = {'Authorization': 'Bearer ' + api_token}
+    
+    try:
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()
+        organizations = response.json()
+        
+        result = []
+        for organization in organizations:
+            result.append({'id': organization['id'], 'name': organization['name']})
+        
+        return result
+    
+    except requests.exceptions.RequestException as e:
+        print('Error occurred:', e)
+        return []
+
+# Example usage:
+api_token = 'your_api_token'
+organizations = get_organizations(api_token)
+for organization in organizations:
+    print(f"ID: {organization['id']}, Name: {organization['name']}")
+```
+
+In this example, we make a GET request to the `/organizations` endpoint of the API using the provided `api_token` as the bearer token in the `Authorization` header. The response is then processed to extract the ID and name of each organization, which are added to the `result` list. Finally, the function returns the list of organizations.
+Remaining Tokens: {
+  "object": "list",
+  "data": [
+    {
+      "organization_id": "org-FsoycnugomBaekWQ1fctGtn4",
+      "organization_name": "Personal",
+      "aggregation_timestamp": 1707696300,
+      "n_requests": 3,
+      "operation": "completion",
+      "snapshot_id": "gpt-3.5-turbo-0613",
+      "n_context_tokens_total": 127,
+      "n_generated_tokens_total": 1606,
+      "user_id": null,
+      "api_key_id": null,
+      "api_key_name": null,
+      "api_key_redacted": null
+    }
+  ],
+  "ft_data": [],
+  "dalle_api_data": [],
+  "whisper_api_data": [],
+  "tts_api_data": [],
+  "assistant_code_interpreter_data": []
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> give me th^[[A     he c function that takes an a   openai api token and resturns a list of organsiations
+[33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m To retrieve a list of organizations using the OpenAI API token, you can make use of the OpenAI Python library. Here is an example of a function that takes an OpenAI API token and returns a list of organizations:
+
+```python
+import openai
+
+def get_organizations(api_token):
+    openai.api_key = api_token
+    
+    response = openai.Organization.list()
+    organizations = response.data
+    
+    return organizations
+```
+
+Here, we set the OpenAI API token using `openai.api_key = api_token`. Then, we call the `openai.Organization.list()` method to retrieve the list of organizations. The response contains the organizations in the `data` field.
+
+Make sure you have the `openai` library installed (`pip install openai`) and import it before using this function.
+Remaining Tokens: {
+  "object": "list",
+  "data": [
+    {
+      "organization_id": "org-FsoycnugomBaekWQ1fctGtn4",
+      "organization_name": "Personal",
+      "aggregation_timestamp": 1707696300,
+      "n_requests": 3,
+      "operation": "completion",
+      "snapshot_id": "gpt-3.5-turbo-0613",
+      "n_context_tokens_total": 127,
+      "n_generated_tokens_total": 1606,
+      "user_id": null,
+      "api_key_id": null,
+      "api_key_name": null,
+      "api_key_redacted": null
+    }
+  ],
+  "ft_data": [],
+  "dalle_api_data": [],
+  "whisper_api_data": [],
+  "tts_api_data": [],
+  "assistant_code_interpreter_data": []
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> give me the c function written in C language that takes an openai api token and resturns a list of organsiations
+.
+[33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m Here is a function written in C language that takes an OpenAI API token and returns a list of organizations:
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <curl/curl.h>
+#include <jansson.h>
+
+// Struct used for storing response data
+struct response_data {
+    char* data;
+    size_t size;
+};
+
+// Callback function to handle the response data
+size_t write_callback(void* ptr, size_t size, size_t nmemb, struct response_data* data) {
+    size_t bytes = size * nmemb;
+    data->data = realloc(data->data, data->size + bytes + 1);
+    if (data->data == NULL) {
+        printf("Failed to allocate memory for response data!
+");
+        return 0;
+    }
+
+    memcpy(data->data + data->size, ptr, bytes);
+    data->size += bytes;
+    data->data[data->size] = ' ';
+
+    return bytes;
+}
+
+// Function to get a list of organizations using OpenAI API
+void get_organizations(const char* api_token) {
+    struct response_data response = { .data = NULL, .size = 0 };
+
+    // Create the request URL
+    char url[256];
+    snprintf(url, sizeof(url), "https://api.openai.com/v1/organizations");
+
+    CURL* curl = curl_easy_init();
+    if (curl) {
+        // Set authentication headers
+        struct curl_slist* headers = NULL;
+        char auth_header[128];
+        snprintf(auth_header, sizeof(auth_header), "Authorization: Bearer %s", api_token);
+        headers = curl_slist_append(headers, auth_header);
+
+        // Set URL and headers
+        curl_easy_setopt(curl, CURLOPT_URL, url);
+        curl_easy_setopt(curl, CURLOPT_HTTPHEADER, headers);
+
+        // Set callback function to handle response data
+        curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, write_callback);
+        curl_easy_setopt(curl, CURLOPT_WRITEDATA, &response);
+
+        // Perform the request
+        CURLcode res = curl_easy_perform(curl);
+        if (res != CURLE_OK) {
+            printf("Request failed: %s
+", curl_easy_strerror(res));
+        }
+
+        // Clean up
+        curl_easy_cleanup(curl);
+        curl_slist_free_all(headers);
+
+        // Parse and print the response
+        json_error_t error;
+        json_t* root = json_loads(response.data, 0, &error);
+        if (!root) {
+            printf("Failed to parse JSON: %s
+", error.text);
+        } else {
+            json_t* orgs = json_object_get(root, "organizations");
+            if (!orgs) {
+                printf("No organizations found.
+");
+            } else {
+                size_t index;
+                json_t* value;
+                json_array_foreach(orgs, index, value) {
+                    const char* org_name = json_string_value(value);
+                    printf("%d. %s
+", index + 1, org_name);
+                }
+            }
+
+            // Cleanup JSON data
+            json_decref(root);
+        }
+    }
+
+    // Clean up
+    free(response.data);
+}
+
+int main() {
+    const char* api_token = "YOUR_API_TOKEN";
+    get_organizations(api_token);
+
+    return 0;
+}
+```
+
+To use this code, replace `"YOUR_API_TOKEN"` in the `main()` function with your actual OpenAI API token. When you run the code, it will make a request to the OpenAI API and print the list of organizations (if any) returned by the API.
+Remaining Tokens: {
+  "object": "list",
+  "data": [
+    {
+      "organization_id": "org-FsoycnugomBaekWQ1fctGtn4",
+      "organization_name": "Personal",
+      "aggregation_timestamp": 1707696300,
+      "n_requests": 3,
+      "operation": "completion",
+      "snapshot_id": "gpt-3.5-turbo-0613",
+      "n_context_tokens_total": 127,
+      "n_generated_tokens_total": 1606,
+      "user_id": null,
+      "api_key_id": null,
+      "api_key_name": null,
+      "api_key_redacted": null
+    },
+    {
+      "organization_id": "org-FsoycnugomBaekWQ1fctGtn4",
+      "organization_name": "Personal",
+      "aggregation_timestamp": 1707697800,
+      "n_requests": 1,
+      "operation": "completion",
+      "snapshot_id": "gpt-3.5-turbo-0613",
+      "n_context_tokens_total": 28,
+      "n_generated_tokens_total": 163,
+      "user_id": null,
+      "api_key_id": null,
+      "api_key_name": null,
+      "api_key_redacted": null
+    }
+  ],
+  "ft_data": [],
+  "dalle_api_data": [],
+  "whisper_api_data": [],
+  "tts_api_data": [],
+  "assistant_code_interpreter_data": []
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> [33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m I'm sorry, there seems to be an incomplete statement or question. Could you please provide more context or clarify what you would like assistance with?
+Remaining Tokens: {
+  "object": "list",
+  "data": [
+    {
+      "organization_id": "org-FsoycnugomBaekWQ1fctGtn4",
+      "organization_name": "Personal",
+      "aggregation_timestamp": 1707696300,
+      "n_requests": 3,
+      "operation": "completion",
+      "snapshot_id": "gpt-3.5-turbo-0613",
+      "n_context_tokens_total": 127,
+      "n_generated_tokens_total": 1606,
+      "user_id": null,
+      "api_key_id": null,
+      "api_key_name": null,
+      "api_key_redacted": null
+    },
+    {
+      "organization_id": "org-FsoycnugomBaekWQ1fctGtn4",
+      "organization_name": "Personal",
+      "aggregation_timestamp": 1707697800,
+      "n_requests": 1,
+      "operation": "completion",
+      "snapshot_id": "gpt-3.5-turbo-0613",
+      "n_context_tokens_total": 28,
+      "n_generated_tokens_total": 163,
+      "user_id": null,
+      "api_key_id": null,
+      "api_key_name": null,
+      "api_key_redacted": null
+    }
+  ],
+  "ft_data": [],
+  "dalle_api_data": [],
+  "whisper_api_data": [],
+  "tts_api_data": [],
+  "assistant_code_interpreter_data": []
+}
+[32m[gpt-3.5-turbo][chatgpt-openai-cli-tool] User:[0m
+> give me the function written in C language that takes an openai api token and prints the api response for querying the organisations.
+[33m[gpt-3.5-turbo][chatgpt-openai-cli-tool] Model:[0m Certainly! Here's a sample function written in C language that takes an OpenAI API token and prints the API response for querying the organizations:
+
+```c
+#include<stdio.h>
+#include<stdlib.h>
+#include<curl/curl.h>
+
+// Callback function to write the API response into a string
+static size_t write_callback(void *contents, size_t size, size_t nmemb, void *userp) {
+    size_t realsize = size * nmemb;
+    char *response = (char *)userp;
+    
+    // Append the response to the existing string
+    response = realloc(response, strlen(response) + realsize + 1);
+    if (response == NULL) {
+        printf("Error: Failed to allocate memory for response.
+");
+        return 0;
+    }
+    strcat(response, (char *)contents);
+    
+    return realsize;
+}
+
+// Function to query organizations using OpenAI API
+void queryOrganizations(char *apiToken) {
+    CURL *curl;
+    CURLcode res;
+    
+    char *res
