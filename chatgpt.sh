@@ -1,6 +1,6 @@
 #!/bin/bash
 organization_id=org-FsoycnugomBaekWQ1fctGtn4
-api_token=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
+api_token=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
 # Function to list available models
 list_models() {
     api_token=$1
